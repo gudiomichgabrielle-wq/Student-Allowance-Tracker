@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Allowance Tracker (PocketPlan)
 
 A vanilla JavaScript single-page app built using the Model–View–Controller pattern and a reusable base View class.
@@ -56,3 +57,6 @@ The assignment asks for at least five meaningful commits per member, a 5–8 min
 | 7 | Reload browser | Previously saved allowance and expenses remain |
 
 **Do not mark a test as passed until your group performs it.**
+=======
+# Student-Allowance-Tracker
+>>>>>>> 9312c6b9126fa0a07ac0dc38c9a53293ae515924
